@@ -1,4 +1,21 @@
-*{
+
+
+.post{
+    background-color: rgb(255, 255, 255);
+    width: 600px;
+    height: 800px;
+    flex: auto;
+}
+
+div{
     border: solid greenyellow 1px;
 }
 
+.roboto {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
